@@ -1,6 +1,6 @@
 // Go to http://newtours.demoaut.com/
 
-// Verify webpage loads
+// Verify page title is "Welcome: Mercury Tours"
 
 // Verify Home link exist
 
