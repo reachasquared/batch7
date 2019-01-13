@@ -19,7 +19,6 @@ public class global {
 
     @Before
     public void setUp() throws Exception {
-        //driver = AsquaredWebDriverFactory.getDriver();
         driver = AsquaredWebDriverFactory.getDriver();
         baseUrl = "http://newtours.demoaut.com/";
         driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
