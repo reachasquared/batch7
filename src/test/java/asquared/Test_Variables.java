@@ -33,5 +33,18 @@ public class Test_Variables {
         System.out.println("age: " + age);
         System.out.println("Week: " + weekDay);
         System.out.println("Status:" + status);
+
+        //Business logic using variables
+        gender = 'm';
+        age = 16;
+        age = age + 10;
+        weekDay = "Monday";
+        status = true;
+
+        //displayValues
+        System.out.println("Gender: " + gender);//we are displaying label 'Gender' and value
+        System.out.println("age: " + age);
+        System.out.println("Week: " + weekDay);
+        System.out.println("Status:" + status);
     }
 }
