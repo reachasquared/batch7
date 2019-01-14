@@ -61,7 +61,7 @@ public class TestCaseForNavigatio{
         //Assert page title : Welcome: Mercury Tours
         assertEquals("Welcome: Mercury Tours", driver.getTitle());
 //Step 6	Click on Flight link in left side menu
-        driver.findElement(By.linkText("Flight")).click();
+        driver.findElement(By.linkText("Flights")).click();
         //Assert page title : Welcome: Mercury Tours
         assertEquals("Welcome: Mercury Tours", driver.getTitle());
 //Step 7	Click on Hotels link in left side menu
