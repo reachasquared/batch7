@@ -1,4 +1,4 @@
-package asquared;
+package ShantaR;
 
 import core.engine.AsquaredWebDriverFactory;
 import org.junit.After;
